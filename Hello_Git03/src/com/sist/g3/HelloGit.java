@@ -6,7 +6,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello git!");
 		System.out.println("12345");
-		System.out.println("신제 222");
+		System.out.println("333");
 	}
 
 }
